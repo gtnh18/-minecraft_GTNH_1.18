@@ -1,0 +1,11 @@
+{
+	id: "1CA105319ABCA1DA"
+	group: ""
+	order_index: 1
+	filename: "chapter_05steam"
+	title: "chapter 0.5:steam!"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

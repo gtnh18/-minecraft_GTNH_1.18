@@ -1,0 +1,36 @@
+{
+	id: "4038E2CCC8A7ECFE"
+	group: ""
+	order_index: 0
+	filename: "chapter_0_stone_ages"
+	title: "chapter 0: stone ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "wood!"
+		x: -2.0d
+		y: 0.0d
+		subtitle: "It's the basic, right?"
+		id: "476816FD4F13D2DE"
+		tasks: [{
+			id: "73444532377D2130"
+			type: "item"
+			title: "Any Logs"
+			item: {
+				id: "itemfilters:tag"
+				Count: 1b
+				tag: {
+					value: "minecraft:logs"
+				}
+			}
+			count: 4L
+		}]
+		rewards: [{
+			id: "49FF0734973A342D"
+			type: "item"
+			item: "minecraft:oak_log"
+			count: 10
+		}]
+	}]
+	quest_links: [ ]
+}

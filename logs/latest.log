@@ -1,81 +1,79 @@
-[17:29:18] [main/INFO]: ModLauncher running: args [--username, yuhan8954, --version, forge-40.2.0, --gameDir, C:\Users\82103\curseforge\minecraft\Instances\New GTNH, --assetsDir, C:\Users\82103\curseforge\minecraft\Install\assets, --assetIndex, 1.18, --uuid, 72c0b46b4b75422cbda0655debdec8ba, --accessToken, ????????, --clientId, YWEyMjZmOGYtNWNkNC00OThjLWI4NmEtZWU0NjRiNDJiNmQ4, --xuid, 2535471678417269, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[17:29:18] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
-[17:29:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/82103/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
-[17:29:19] [main/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\fml.toml is not correct. Correcting
-[17:29:19] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
-[17:29:19] [main/INFO]: Found mod file AntimatterAPI-1.18.2-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file architectury-4.11.89-forge.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file create-1.18.2-0.5.0.i.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.8.a.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file GregTech-1.18.2-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file jei-1.18.2-9.7.1.255.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file kubejs-create-forge-1802.2.2-build.28.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file kubejs-forge-1802.5.5-build.569.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file kubejs-tinkers-1802.1.0-build.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file kubejs-ui-forge-1802.1.8-build.17.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file Mantle-1.18.2-1.9.43.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file rhino-forge-1802.2.1-build.255.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file TConstruct-1.18.2-3.6.2.92.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/INFO]: Found mod file TesseractAPI-1.18.1-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
-[17:29:19] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
-[17:29:19] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[17:29:19] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[17:29:19] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[17:29:19] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found mod file forge-1.18.2-40.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5c84624f
-[17:29:19] [main/INFO]: Found 1 dependencies adding them to mods collection
-[17:29:19] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@332f25c8
-[17:29:21] [main/INFO]: Compatibility level set to JAVA_17
-[17:29:21] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.2.0, --gameDir, C:\Users\82103\curseforge\minecraft\Instances\New GTNH, --assetsDir, C:\Users\82103\curseforge\minecraft\Install\assets, --uuid, 72c0b46b4b75422cbda0655debdec8ba, --username, yuhan8954, --assetIndex, 1.18, --accessToken, ????????, --clientId, YWEyMjZmOGYtNWNkNC00OThjLWI4NmEtZWU0NjRiNDJiNmQ4, --xuid, 2535471678417269, --userType, msa, --versionType, release, --width, 1024, --height, 768]
-[17:29:28] [Render thread/WARN]: Assets URL 'union:/C:/Users/82103/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2368!/assets/.mcassetsroot' uses unexpected schema
-[17:29:28] [Render thread/WARN]: Assets URL 'union:/C:/Users/82103/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2368!/data/.mcassetsroot' uses unexpected schema
-[17:29:28] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:29:29] [Render thread/INFO]: Setting user: yuhan8954
-[17:29:29] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
-[17:29:30] [Render thread/INFO]: Loaded client.properties
-[17:29:31] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
-[17:29:31] [modloading-worker-0/INFO]: MinecraftForge v40.2.0 Initialized
-[17:29:31] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
-[17:29:31] [modloading-worker-0/INFO]: Found plugin source kubejs
-[17:29:31] [modloading-worker-0/ERROR]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
-[17:29:31] [modloading-worker-0/INFO]: Found plugin source kubejs_create
-[17:29:31] [modloading-worker-0/INFO]: Found plugin source antimatter_shared
-[17:29:31] [modloading-worker-0/INFO]: Found plugin source kubejs_tinkers_construct
-[17:29:31] [modloading-worker-0/INFO]: Found plugin source antimatter
-[17:29:31] [modloading-worker-0/INFO]: Done in 21.27 ms
-[17:29:32] [modloading-worker-0/INFO]: No shaders mod detected.
-[17:29:32] [modloading-worker-0/INFO]: Loading Antimatter
-[17:29:32] [modloading-worker-0/INFO]: Loading GregTech
-[17:29:32] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
-[17:29:32] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
-[17:29:32] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
-[17:29:32] [modloading-worker-0/INFO]: Loaded common.properties
-[17:29:33] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
-[17:29:33] [modloading-worker-0/INFO]: Rhino properties loaded.
-[17:29:33] [modloading-worker-0/INFO]: Loading mappings for 1.18.2
-[17:29:33] [modloading-worker-0/INFO]: Done in 0.256 s
-[17:29:34] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
-[17:29:34] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.198 s
-[17:29:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 1.512 s
-[17:29:34] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
-[17:29:34] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.001 s
-[17:29:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.009 s
-[17:29:34] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
-[17:29:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
-[17:29:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
-[17:29:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
-[17:29:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
-[17:29:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
-[17:29:44] [Render thread/INFO]: Registration event DATA_INIT
-[17:29:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[17:29:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[17:29:51] [ForkJoinPool.commonPool-worker-3/ERROR]: Could not find parent muramasa/antimatter/ore/StoneType for class muramasa/antimatter/ore/CobbleStoneType in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@19bb089b on thread Thread[ForkJoinPool.commonPool-worker-3,5,main]
-[17:29:51] [ForkJoinPool.commonPool-worker-3/ERROR]: An error occurred building event handler
+[21:44:10] [main/INFO]: ModLauncher running: args [--username, yuhan8954, --version, forge-40.2.0, --gameDir, C:\Users\82103\curseforge\minecraft\Instances\New GTNH, --assetsDir, C:\Users\82103\curseforge\minecraft\Install\assets, --assetIndex, 1.18, --uuid, 72c0b46b4b75422cbda0655debdec8ba, --accessToken, ????????, --clientId, YWEyMjZmOGYtNWNkNC00OThjLWI4NmEtZWU0NjRiNDJiNmQ4, --xuid, 2535471678417269, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[21:44:10] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[21:44:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/82103/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[21:44:10] [main/INFO]: Found mod file AntimatterAPI-1.18.2-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file architectury-4.11.89-forge.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file create-1.18.2-0.5.0.i.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.8.a.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file GregTech-1.18.2-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file jei-1.18.2-9.7.1.255.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file kubejs-create-forge-1802.2.2-build.28.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file kubejs-forge-1802.5.5-build.569.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file kubejs-tinkers-1802.1.0-build.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file kubejs-ui-forge-1802.1.8-build.17.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file Mantle-1.18.2-1.9.43.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file rhino-forge-1802.2.1-build.255.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file TConstruct-1.18.2-3.6.2.92.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/INFO]: Found mod file TesseractAPI-1.18.1-0.1.jar of type MOD with provider {mods folder locator at C:\Users\82103\curseforge\minecraft\Instances\New GTNH\mods}
+[21:44:10] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[21:44:10] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[21:44:10] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[21:44:10] [main/WARN]: Mod file C:\Users\82103\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[21:44:10] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found mod file forge-1.18.2-40.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@30f4b1a6
+[21:44:10] [main/INFO]: Found 1 dependencies adding them to mods collection
+[21:44:10] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1dab9dd6
+[21:44:12] [main/INFO]: Compatibility level set to JAVA_17
+[21:44:12] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.2.0, --gameDir, C:\Users\82103\curseforge\minecraft\Instances\New GTNH, --assetsDir, C:\Users\82103\curseforge\minecraft\Install\assets, --uuid, 72c0b46b4b75422cbda0655debdec8ba, --username, yuhan8954, --assetIndex, 1.18, --accessToken, ????????, --clientId, YWEyMjZmOGYtNWNkNC00OThjLWI4NmEtZWU0NjRiNDJiNmQ4, --xuid, 2535471678417269, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[21:44:18] [Render thread/WARN]: Assets URL 'union:/C:/Users/82103/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2368!/assets/.mcassetsroot' uses unexpected schema
+[21:44:18] [Render thread/WARN]: Assets URL 'union:/C:/Users/82103/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2368!/data/.mcassetsroot' uses unexpected schema
+[21:44:18] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:44:19] [Render thread/INFO]: Setting user: yuhan8954
+[21:44:19] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[21:44:19] [Render thread/INFO]: Loaded client.properties
+[21:44:25] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
+[21:44:25] [modloading-worker-0/INFO]: MinecraftForge v40.2.0 Initialized
+[21:44:25] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[21:44:25] [modloading-worker-0/INFO]: No shaders mod detected.
+[21:44:25] [modloading-worker-0/INFO]: Found plugin source kubejs
+[21:44:25] [modloading-worker-0/ERROR]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
+[21:44:25] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[21:44:25] [modloading-worker-0/INFO]: Found plugin source antimatter_shared
+[21:44:25] [modloading-worker-0/INFO]: Found plugin source kubejs_tinkers_construct
+[21:44:25] [modloading-worker-0/INFO]: Found plugin source antimatter
+[21:44:25] [modloading-worker-0/INFO]: Done in 142.3 ms
+[21:44:25] [modloading-worker-0/INFO]: Loading Antimatter
+[21:44:25] [modloading-worker-0/INFO]: Loading GregTech
+[21:44:25] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[21:44:25] [modloading-worker-0/INFO]: Loaded common.properties
+[21:44:25] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[21:44:25] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[21:44:26] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[21:44:26] [modloading-worker-0/INFO]: Rhino properties loaded.
+[21:44:26] [modloading-worker-0/INFO]: Loading mappings for 1.18.2
+[21:44:26] [modloading-worker-0/INFO]: Done in 0.243 s
+[21:44:27] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[21:44:27] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.248 s
+[21:44:27] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 1.438 s
+[21:44:27] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
+[21:44:27] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.002 s
+[21:44:27] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.012 s
+[21:44:27] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[21:44:27] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[21:44:27] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[21:44:27] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[21:44:27] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[21:44:27] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[21:44:33] [Render thread/INFO]: Registration event DATA_INIT
+[21:44:37] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21:44:37] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21:44:40] [ForkJoinPool.commonPool-worker-1/ERROR]: Could not find parent muramasa/antimatter/ore/StoneType for class muramasa/antimatter/ore/CobbleStoneType in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@19bb089b on thread Thread[ForkJoinPool.commonPool-worker-1,5,main]
+[21:44:40] [ForkJoinPool.commonPool-worker-1/ERROR]: An error occurred building event handler
 java.lang.ClassNotFoundException: muramasa.antimatter.ore.StoneType
 	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
 	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
@@ -115,256 +113,34 @@ java.lang.ClassNotFoundException: muramasa.antimatter.ore.StoneType
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[17:29:52] [Render thread/INFO]: Time to run asset providers: 2007 ms.
-[17:29:52] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[17:29:52] [Render thread/INFO]: Creating AntimatterAPI's JEI Plugin
-[17:29:53] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, KubeJS Resource Pack [assets]
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\tconstruct-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.tankFluidModel was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.extraToolTips was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.logMissingMaterialTextures was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.logMissingModifierTextures was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.showModifiersInJEI was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.maxSmelteryItemQuads was corrected from null to its default, 3500. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.renderShieldSlotItem was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame.render was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame.xOffset was corrected from null to its default, 0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame.yOffset was corrected from null to its default, 0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame.location was corrected from null to its default, TOP_LEFT. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.modifiers.itemFrame.itemsPerRow was corrected from null to its default, 5. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\jei-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.DebugMode was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.CenterSearch was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.LowMemorySlowSearchEnabled was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.CheatToHotbarUsingHotkeysEnabled was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.GiveMode was corrected from null to its default, MOUSE_PICKUP. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key advanced.RecipeGuiHeight was corrected from null to its default, 350. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key colors was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key colors.SearchColors was corrected from null to its default, [White:EEEEEE, LightBlue:7492cc, Cyan:00EEEE, Blue:2222dd, LapisBlue:25418b, Teal:008080, Yellow:cacb58, GoldenYellow:EED700, Orange:d97634, Pink:D1899D, HotPink:FC0FC0, Magenta:b24bbb, Purple:813eb9, JadedPurple:43324f, EvilPurple:2e1649, Lavender:B57EDC, Indigo:480082, Sand:dbd3a0, Tan:bb9b63, LightBrown:A0522D, Brown:634b33, DarkBrown:3a2d13, LimeGreen:43b239, SlimeGreen:83cb73, Green:008000, DarkGreen:224d22, GrassGreen:548049, Red:963430, BrickRed:b0604b, NetherBrick:2a1516, Redstone:ce3e36, Black:181515, CharcoalGray:464646, IronGray:646464, Gray:808080, Silver:C0C0C0]. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key sorting was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key sorting.IngredientSortStages was corrected from null to its default, [MOD_NAME, INGREDIENT_TYPE, CREATIVE_MENU]. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.ModNameSearchMode was corrected from null to its default, REQUIRE_PREFIX. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.TooltipSearchMode was corrected from null to its default, ENABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.TagSearchMode was corrected from null to its default, REQUIRE_PREFIX. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.CreativeTabSearchMode was corrected from null to its default, DISABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.ColorSearchMode was corrected from null to its default, DISABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.ResourceLocationSearchMode was corrected from null to its default, DISABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key search.SearchAdvancedTooltips was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key modname was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key modname.ModNameFormat was corrected from null to its default, blue italic. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.MaxRows was corrected from null to its default, 16. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.MaxColumns was corrected from null to its default, 9. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.HorizontalAlignment was corrected from null to its default, RIGHT. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.VerticalAlignment was corrected from null to its default, TOP. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.ButtonNavigationVisibility was corrected from null to its default, ENABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key IngredientList.DrawBackground was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.MaxRows was corrected from null to its default, 16. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.MaxColumns was corrected from null to its default, 9. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.HorizontalAlignment was corrected from null to its default, LEFT. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.VerticalAlignment was corrected from null to its default, TOP. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.ButtonNavigationVisibility was corrected from null to its default, ENABLED. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BookmarkList.DrawBackground was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\mantle-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key extraHeartRenderer was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\flywheel-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key backend was corrected from null to its default, INSTANCING. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key debugNormals was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key limitUpdates was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\forge-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.forceSystemNanoTime was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\antimatter-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key BASIC_MACHINE_MODELS was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key SHOW_ALL_MATERIAL_ITEMS was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key SHOW_ALL_FLUID_CELLS was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\create-client.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\tconstruct-common.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.shouldSpawnWithTinkersBook was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks.wither was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks.dragon_breath was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks.falling_block was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks.lightning was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.damageTweaks.repairKitAmount was corrected from null to its default, 2.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.showOnlyToolMaterial was corrected from null to its default, . 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.showOnlyPartMaterial was corrected from null to its default, . 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.showAllTableVariants was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.showAllAnvilVariants was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key gameplay.showAllSmelteryVariants was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.addGravelToFlintRecipe was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.cheaperNetheriteAlloy was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.witherBoneDrop was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.witherBoneConversion was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.slimeRecipeFix was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.glassRecipeFix was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.melter was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.melter.nuggetsPerMetal was corrected from null to its default, 12. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.melter.shardsPerGem was corrected from null to its default, 8. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.smeltery was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.smeltery.nuggetsPerMetal was corrected from null to its default, 12. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.smeltery.shardsPerGem was corrected from null to its default, 8. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry.nuggetsPerMetal was corrected from null to its default, 9. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry.shardsPerGem was corrected from null to its default, 4. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry_byproduct was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry_byproduct.nuggetsPerMetal was corrected from null to its default, 3. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.ore_rates.foundry_byproduct.shardsPerGem was corrected from null to its default, 4. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.blaze was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.enderman was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.stray was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.husk was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.drowned was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.spider was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.cave_spider was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.piglin was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.piglin_brute was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key recipes.heads.zombified_piglin was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key loot was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key loot.slimy_loot was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key loot.barter_blazing_blood was corrected from null to its default, 20. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key loot.tinker_tool_bonus_chest was corrected from null to its default, 2. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key loot.drop_dragon_Scales was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.generateCobalt was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.veinCountCobalt was corrected from null to its default, 8. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes.forceRecipes was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes.earth was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes.sky was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes.ichor was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.geodes.ender was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key debug.forceIntegrationMaterials was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key debug.logInvalidToolStackTrace was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\forge-common.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\antimatter-common.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Data was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Data.ALL_MATERIAL_ITEMS was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.DISABLE_VANILLA_ORE_GEN was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.DISABLE_VANILLA_STONE_GEN was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.SMALL_ORES was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.SURFACE_ROCKS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEINS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_MAX_SIZE was corrected from null to its default, 32. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_CHANCE was corrected from null to its default, 100. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_ROCK_CHANCE was corrected from null to its default, 256. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_FIND_ATTEMPTS was corrected from null to its default, 64. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_PLACE_ATTEMPTS was corrected from null to its default, 8. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_SMALL_ORE_MARKERS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Ore Veins.ORE_VEIN_SMALL_ORE_MARKERS_MULTI was corrected from null to its default, 2. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Stone Layers was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Stone Layers.STONE_LAYERS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Stone Layers.STONE_LAYER_ORES was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.Stone Layers.STONE_LAYER_ROCK_CHANCE was corrected from null to its default, 128. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key World.ORE_VEIN_SPECTATOR_DEBUG was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.INPUT_RESET_MULTIBLOCK was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.EU_TO_FE_RATIO was corrected from null to its default, 1.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.PIPE_LEAK was corrected from null to its default, 0.9. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.HARDCORE_CABLES was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.HARDCORE_PIPES was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.Treefelling was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.Treefelling.SMARTER_TREE_DETECTION was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.Treefelling.AXE_TIMBER was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.Treefelling.AXE_TIMBER_MAX was corrected from null to its default, 100. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Gameplay.PLAY_CRAFTING_SOUNDS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Mod Compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key Mod Compatibility.ENABLE_ALL_REGISTRARS was corrected from null to its default, true. 
-[17:29:53] [modloading-worker-0/WARN]: Configuration file C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\create-common.toml is not correct. Correcting
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.disableWorldGen was corrected from null to its default, false. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.clusterSize was corrected from null to its default, 32. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.frequency was corrected from null to its default, 0.0833333358168602. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.minHeight was corrected from null to its default, 40. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.maxHeight was corrected from null to its default, 90. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.clusterSize was corrected from null to its default, 32. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.frequency was corrected from null to its default, 0.0833333358168602. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.minHeight was corrected from null to its default, -30. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.maxHeight was corrected from null to its default, 70. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.clusterSize was corrected from null to its default, 12. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.frequency was corrected from null to its default, 8.0. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.minHeight was corrected from null to its default, -63. 
-[17:29:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.maxHeight was corrected from null to its default, 70. 
-[17:29:54] [Worker-Main-17/INFO]: 91 material render infos loaded
-[17:29:55] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17:29:55] [Worker-Main-20/INFO]: AntimatterAPI WorldGen Initialization Stage...
-[17:29:55] [Worker-Main-20/INFO]: Registration event WORLDGEN_INIT
-[17:29:55] [Worker-Main-20/INFO]: AntimatterAPI Data Processing has Finished. All Data Objects can now be Modified!
-[17:29:55] [Worker-Main-18/INFO]: Registration event DATA_READY
-[17:29:55] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 40.2.0 Target: null
-[17:29:55] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[17:29:56] [Forge Version Check/INFO]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
-[17:30:10] [Render thread/INFO]: Loaded all shader sources.
-[17:30:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 스피커(11- USB Audio Device)
-[17:30:13] [Render thread/INFO]: Sound engine started
-[17:30:13] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[17:30:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[17:30:15] [Render thread/WARN]: Shader kubejsui_background could not find uniform named tick in the specified shader program.
-[17:30:15] [Render thread/WARN]: Shader kubejsui_background could not find uniform named guiScale in the specified shader program.
-[17:30:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[17:30:16] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[17:30:16] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[17:30:16] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
-[17:30:16] [Render thread/INFO]: Loaded 0 fluid unit lists in 1.1787 ms
-[17:30:23] [Render thread/INFO]: Stopping!
+[21:44:41] [Render thread/INFO]: Time to run asset providers: 1726 ms.
+[21:44:41] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[21:44:41] [Render thread/INFO]: Creating AntimatterAPI's JEI Plugin
+[21:44:41] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, KubeJS Resource Pack [assets]
+[21:44:42] [Worker-Main-15/INFO]: AntimatterAPI WorldGen Initialization Stage...
+[21:44:42] [Worker-Main-15/INFO]: Registration event WORLDGEN_INIT
+[21:44:42] [Worker-Main-15/INFO]: AntimatterAPI Data Processing has Finished. All Data Objects can now be Modified!
+[21:44:42] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21:44:42] [Worker-Main-22/INFO]: 91 material render infos loaded
+[21:44:42] [Worker-Main-21/INFO]: Registration event DATA_READY
+[21:44:43] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 40.2.0 Target: null
+[21:44:43] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[21:44:43] [Forge Version Check/INFO]: [flywheel] Found status: UP_TO_DATE Current: 0.6.8.a Target: null
+[21:44:57] [Render thread/INFO]: Loaded all shader sources.
+[21:45:00] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 스피커(11- USB Audio Device)
+[21:45:00] [Render thread/INFO]: Sound engine started
+[21:45:00] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:45:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:45:03] [Render thread/WARN]: Shader kubejsui_background could not find uniform named tick in the specified shader program.
+[21:45:03] [Render thread/WARN]: Shader kubejsui_background could not find uniform named guiScale in the specified shader program.
+[21:45:03] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:45:03] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:45:03] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:45:03] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[21:45:03] [Render thread/INFO]: Loaded 0 fluid unit lists in 1.1494 ms
+[21:46:23] [Render thread/INFO]: Stopping!

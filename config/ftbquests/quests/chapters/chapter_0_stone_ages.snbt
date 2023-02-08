@@ -6,31 +6,164 @@
 	title: "chapter 0: stone ages"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "wood!"
-		x: -2.0d
-		y: 0.0d
-		subtitle: "It's the basic, right?"
-		id: "476816FD4F13D2DE"
-		tasks: [{
-			id: "73444532377D2130"
-			type: "item"
-			title: "Any Logs"
-			item: {
-				id: "itemfilters:tag"
-				Count: 1b
-				tag: {
-					value: "minecraft:logs"
+	quests: [
+		{
+			title: "wood!"
+			x: -2.0d
+			y: 0.0d
+			subtitle: "It's the basic, right?"
+			id: "476816FD4F13D2DE"
+			tasks: [{
+				id: "73444532377D2130"
+				type: "item"
+				title: "Any Logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
 				}
-			}
-			count: 4L
-		}]
-		rewards: [{
-			id: "49FF0734973A342D"
-			type: "item"
-			item: "minecraft:oak_log"
-			count: 10
-		}]
-	}]
+				count: 4L
+			}]
+			rewards: [{
+				id: "49FF0734973A342D"
+				type: "item"
+				item: "minecraft:oak_log"
+				count: 10
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			dependencies: ["476816FD4F13D2DE"]
+			id: "405F01D24F6AFC1E"
+			tasks: [{
+				id: "54B51758E83436DD"
+				type: "item"
+				title: "planks"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:planks"
+					}
+				}
+				count: 12L
+			}]
+			rewards: [{
+				id: "0EFCB35165845A48"
+				type: "xp"
+				xp: 1000
+			}]
+		}
+		{
+			title: "stick!"
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["405F01D24F6AFC1E"]
+			id: "270737D0075AD9D5"
+			tasks: [{
+				id: "24C9EC763D746D3D"
+				type: "item"
+				title: "stick"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:rods/wood"
+					}
+				}
+				count: 4L
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			dependencies: [
+				"270737D0075AD9D5"
+				"46DB53295D335EF6"
+			]
+			id: "3F973D65E6557CA0"
+			tasks: [{
+				id: "35EAAD3BA7DE9AC5"
+				type: "item"
+				item: {
+					id: "antimatter:knife"
+					Count: 1b
+					tag: {
+						td: {
+							sm: "wood"
+							t: -1268159963
+							m: "flint"
+						}
+						Damage: 0
+						Enchantments: [{
+							lvl: 1s
+							id: "minecraft:fire_aspect"
+						}]
+					}
+				}
+			}]
+			rewards: [{
+				id: "29FD014A6C63E1FF"
+				type: "item"
+				item: {
+					id: "antimatter:knife"
+					Count: 1b
+					tag: {
+						td: {
+							sm: "wood"
+							t: -1268159963
+							m: "flint"
+						}
+						Damage: 0
+						Enchantments: [{
+							lvl: 1s
+							id: "minecraft:fire_aspect"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			title: "flint"
+			x: 0.0d
+			y: 6.5d
+			dependencies: ["6BFCD565A1275CDF"]
+			id: "46DB53295D335EF6"
+			tasks: [{
+				id: "20CA3C455D19FA30"
+				type: "item"
+				title: "flint"
+				item: "minecraft:flint"
+				count: 4L
+			}]
+		}
+		{
+			title: "gravel"
+			x: -2.0d
+			y: 6.5d
+			id: "6BFCD565A1275CDF"
+			tasks: [{
+				id: "71744BD904C4A317"
+				type: "item"
+				title: "gravel"
+				item: "minecraft:gravel"
+				count: 12L
+			}]
+		}
+		{
+			x: 2.5d
+			y: 4.0d
+			dependencies: ["3F973D65E6557CA0"]
+			id: "021CD1588E798E77"
+			tasks: [{
+				id: "27C02F84459A1EBF"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

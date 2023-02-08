@@ -1,19 +1,23 @@
-[22:54:13] [INFO ] Loaded script server_scripts:flint.js in 0.0 s
-[22:54:13] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[22:54:13] [INFO ] Loaded script server_scripts:script.js in 0.0 s
-[22:54:13] [INFO ] Loaded 2/2 KubeJS server scripts in 0.004 s
-[22:54:13] [INFO ] Scripts loaded
-[22:54:13] [INFO ] Scanning recipes...
-[22:54:17] [INFO ] Found 6035 recipes and 0 failed recipes in 61.37 ms
-[22:54:17] [INFO ] server_scripts:flint.js:2: - tconstruct:common/flint[minecraft:crafting_shapeless]: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
-[22:54:17] [INFO ] server_scripts:flint.js:2: - create:splashing/gravel[create:splashing]: ['minecraft:gravel'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:iron_nugget').withChance(0.125)]
-[22:54:17] [INFO ] server_scripts:flint.js:2: - create:crushing/tuff_recycling[create:crushing]: ['#create:stone_types/tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
-[22:54:17] [INFO ] server_scripts:flint.js:2: - create:milling/gravel[create:milling]: ['minecraft:gravel'] -> ['minecraft:flint']
-[22:54:17] [INFO ] server_scripts:flint.js:2: - create:crushing/gravel[create:crushing]: ['minecraft:gravel'] -> ['minecraft:sand', Item.of('minecraft:flint').withChance(0.1), Item.of('minecraft:clay_ball').withChance(0.05)]
-[22:54:17] [INFO ] server_scripts:flint.js:2: - create:crushing/tuff[create:crushing]: ['minecraft:tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
-[22:54:17] [INFO ] server_scripts:flint.js:4: + kubejs:shapeless: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
-[22:54:17] [INFO ] server_scripts:flint.js:13: Hello! The recipe event has fired!
-[22:54:17] [INFO ] Posted recipe events in 1.877 ms
-[22:54:17] [INFO ] Modified & removed recipes in 36.64 ms
-[22:54:17] [INFO ] Added recipes in 330.8 μs
-[22:54:17] [INFO ] Added 1 recipes, removed 6 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[13:01:45] [INFO ] Loaded script server_scripts:craftingtable.js in 0.001 s
+[13:01:45] [INFO ] Loaded script server_scripts:flint.js in 0.001 s
+[13:01:45] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[13:01:45] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[13:01:45] [INFO ] Loaded 3/3 KubeJS server scripts in 0.008 s
+[13:01:45] [INFO ] Scripts loaded
+[13:01:45] [INFO ] Scanning recipes...
+[13:01:48] [INFO ] Found 6035 recipes and 0 failed recipes in 88.72 ms
+[13:01:48] [INFO ] server_scripts:craftingtable.js:2: - minecraft:crafting_table[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:crafting_table']
+[13:01:48] [INFO ] server_scripts:craftingtable.js:4: + kubejs:shaped: ['#antimatter:knife', '#minecraft:logs'] -> ['minecraft:crafting_table']
+[13:01:48] [INFO ] server_scripts:craftingtable.js:17: Hello! The recipe event has fired!
+[13:01:48] [INFO ] server_scripts:flint.js:2: - tconstruct:common/flint[minecraft:crafting_shapeless]: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
+[13:01:48] [INFO ] server_scripts:flint.js:2: - create:splashing/gravel[create:splashing]: ['minecraft:gravel'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:iron_nugget').withChance(0.125)]
+[13:01:48] [INFO ] server_scripts:flint.js:2: - create:crushing/tuff_recycling[create:crushing]: ['#create:stone_types/tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
+[13:01:48] [INFO ] server_scripts:flint.js:2: - create:milling/gravel[create:milling]: ['minecraft:gravel'] -> ['minecraft:flint']
+[13:01:48] [INFO ] server_scripts:flint.js:2: - create:crushing/gravel[create:crushing]: ['minecraft:gravel'] -> ['minecraft:sand', Item.of('minecraft:flint').withChance(0.1), Item.of('minecraft:clay_ball').withChance(0.05)]
+[13:01:48] [INFO ] server_scripts:flint.js:2: - create:crushing/tuff[create:crushing]: ['minecraft:tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
+[13:01:48] [INFO ] server_scripts:flint.js:4: + kubejs:shapeless: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
+[13:01:48] [INFO ] server_scripts:flint.js:13: Hello! The recipe event has fired!
+[13:01:48] [INFO ] Posted recipe events in 6.597 ms
+[13:01:48] [INFO ] Modified & removed recipes in 46.28 ms
+[13:01:48] [INFO ] Added recipes in 766.2 μs
+[13:01:48] [INFO ] Added 2 recipes, removed 7 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

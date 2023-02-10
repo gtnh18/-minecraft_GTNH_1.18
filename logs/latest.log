@@ -2807,3 +2807,471 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13:26:06] [Render thread/INFO]: Starting JEI took 813.0 ms
 [13:26:06] [Render thread/INFO]: Loading FTB Chunks client data from world edbea108-308e-4f2c-9b67-1621634ffc15
 [13:26:06] [Render thread/INFO]: Loaded 83 advancements
+[13:27:55] [Server thread/INFO]: Saving and pausing game...
+[13:27:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:27:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:27:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:27:55] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[13:27:55] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[13:27:55] [Render thread/INFO]: Stopping JEI
+[13:27:56] [Server thread/INFO]: yuhan8954 lost connection: Disconnected
+[13:27:56] [Server thread/INFO]: yuhan8954 left the game
+[13:27:56] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:27:56] [Server thread/INFO]: Stopping server
+[13:27:56] [Server thread/INFO]: Saving players
+[13:27:56] [Server thread/INFO]: Saving worlds
+[13:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:27:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:27:58] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutting down.
+[13:27:58] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED paused.
+[13:27:58] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutdown complete.
+[13:28:03] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[13:28:05] [Render thread/INFO]: Loaded script server_scripts:craftingtable.js in 0.0 s
+[13:28:05] [Render thread/INFO]: Loaded script server_scripts:create.js in 0.0 s
+[13:28:05] [Render thread/INFO]: Loaded script server_scripts:flint.js in 0.001 s
+[13:28:05] [Render thread/INFO]: Loaded script server_scripts:nugget.js in 0.0 s
+[13:28:05] [Render thread/INFO]: server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[13:28:05] [Render thread/INFO]: Loaded script server_scripts:script.js in 0.001 s
+[13:28:05] [Render thread/INFO]: Loaded 5/5 KubeJS server scripts in 0.006 s
+[13:28:05] [Render thread/INFO]: Scripts loaded
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type kubejs:shaped
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type kubejs:shapeless
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:crafting_shaped
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:stonecutting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:smelting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:blasting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:smoking
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:campfire_cooking
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type minecraft:smithing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type antimatter:machine
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type antimatter:machine
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:sequenced_assembly
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:mechanical_crafting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:conversion
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:crushing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:cutting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:milling
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:basin
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:mixing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:compacting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:pressing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:sandpaper_polishing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:splashing
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:haunting
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:deploying
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:filling
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:emptying
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type create:item_application
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type tconstruct:casting_table
+[13:28:05] [Render thread/INFO]: Registered custom recipe handler for type tconstruct:casting_basin
+[13:28:05] [Render thread/INFO]: Scanning recipes...
+[13:28:06] [Render thread/INFO]: Time to run data providers: 104 ms.
+[13:28:06] [Render thread/INFO]: Amount of Antimatter Recipe Loaders registered: 36
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [ftbchunks, admin, view_loaded_chunks, reset] and [ftbchunks, admin, view_loaded_chunks, dimension] with inputs: [reset]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:06] [Render thread/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:09] [Render thread/INFO]: Antimatter recipe manager running..
+[13:28:09] [Render thread/INFO]: Antimatter recipe manager done..
+[13:28:09] [Render thread/INFO]: Found 6041 recipes and 0 failed recipes in 60.49 ms
+[13:28:09] [Render thread/INFO]: server_scripts:craftingtable.js:2: - minecraft:crafting_table[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:crafting_table']
+[13:28:09] [Render thread/INFO]: server_scripts:craftingtable.js:4: + kubejs:shaped: ['#antimatter:knife', '#minecraft:logs'] -> ['minecraft:crafting_table']
+[13:28:09] [Render thread/INFO]: server_scripts:create.js:4: + kubejs:shapeless: ['antimatter_shared:nugget_bronze', 'minecraft:acacia_planks'] -> ['create:cogwheel']
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - tconstruct:common/flint[minecraft:crafting_shapeless]: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - create:splashing/gravel[create:splashing]: ['minecraft:gravel'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:iron_nugget').withChance(0.125)]
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - create:crushing/tuff_recycling[create:crushing]: ['#create:stone_types/tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - create:milling/gravel[create:milling]: ['minecraft:gravel'] -> ['minecraft:flint']
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - create:crushing/gravel[create:crushing]: ['minecraft:gravel'] -> ['minecraft:sand', Item.of('minecraft:flint').withChance(0.1), Item.of('minecraft:clay_ball').withChance(0.05)]
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:2: - create:crushing/tuff[create:crushing]: ['minecraft:tuff'] -> [Item.of('minecraft:flint').withChance(0.25), Item.of('minecraft:gold_nugget').withChance(0.1), Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1), Item.of('minecraft:iron_nugget').withChance(0.1)]
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:4: + kubejs:shapeless: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['minecraft:flint']
+[13:28:09] [Render thread/INFO]: server_scripts:flint.js:13: Hello! The recipe event has fired!
+[13:28:09] [Render thread/INFO]: server_scripts:nugget.js:2: - tconstruct:smeltery/casting/metal/bronze/nugget_gold_cast[tconstruct:casting_table]: ['#tconstruct:casts/multi_use/nugget'] -> ['antimatter_shared:nugget_bronze']
+[13:28:09] [Render thread/INFO]: server_scripts:nugget.js:2: - tconstruct:smeltery/casting/metal/bronze/nugget_sand_cast[tconstruct:casting_table]: ['#tconstruct:casts/single_use/nugget'] -> ['antimatter_shared:nugget_bronze']
+[13:28:09] [Render thread/INFO]: server_scripts:nugget.js:4: + kubejs:shapeless: ['antimatter_shared:ingot_bronze'] -> ['antimatter_shared:nugget_bronze']
+[13:28:09] [Render thread/INFO]: Posted recipe events in 9.658 ms
+[13:28:09] [Render thread/INFO]: Modified & removed recipes in 33.84 ms
+[13:28:09] [Render thread/INFO]: Added recipes in 213.5 レs
+[13:28:09] [Render thread/INFO]: Added 4 recipes, removed 9 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[13:28:10] [Render thread/INFO]: Loaded 2674 advancements
+[13:28:10] [Render thread/INFO]: Loaded 23 dynamic modifiers in 0.1475 ms
+[13:28:10] [Render thread/INFO]: Loaded 65 dynamic modifiers and 15 modifier redirects in 0.8697 ms
+[13:28:11] [Render thread/INFO]: Loaded 4 modifier tags for 10 modifiers in 73.7354 ms
+[13:28:11] [Render thread/INFO]: Loaded 48 enchantment to modifier mappings in 0.3218 ms
+[13:28:11] [Render thread/INFO]: Loaded 49 spilling fluids in 0.4474 ms
+[13:28:11] [Render thread/INFO]: Loaded 61 materials in 0.4013 ms
+[13:28:11] [Render thread/INFO]: Loaded 1 material tags for 20 materials in 69.3663 ms
+[13:28:11] [Render thread/INFO]: 196 stats loaded for 65 materials in 74.2641 ms
+[13:28:11] [Render thread/INFO]: 86 traits loaded for 65 materials in 71.7997 ms
+[13:28:11] [Render thread/INFO]: Loaded 28 tool definitions in 0.5565 ms
+[13:28:11] [Render thread/INFO]: Loaded 18 station slot layouts in 0.4085 ms
+[13:28:12] [Render thread/INFO]: Compiling GT recipes
+[13:28:12] [Render thread/INFO]: Time to compile GT recipes: (ms) 16
+[13:28:12] [Render thread/INFO]: No. of GT recipes: 8563
+[13:28:12] [Render thread/INFO]: Average loading time / recipe: (?s) 1
+[13:28:12] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:28:12] [Server thread/INFO]: Starting integrated minecraft server version 1.18.2
+[13:28:12] [Server thread/INFO]: Generating keypair
+[13:28:12] [Server thread/INFO]: loaded team data: 1 known players, 1 teams total
+[13:28:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:13] [Render thread/INFO]: Preparing spawn area: 0%
+[13:28:13] [Render thread/INFO]: Preparing spawn area: 4%
+[13:28:13] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[13:28:13] [Server thread/INFO]: Starting backup cleaning thread
+[13:28:13] [Server thread/INFO]: Using default implementation for ThreadExecutor
+[13:28:13] [Server thread/INFO]: Initialized Scheduler Signaller of type: class net.creeperhost.ftbbackups.org.quartz.core.SchedulerSignalerImpl
+[13:28:13] [Server thread/INFO]: Quartz Scheduler v.2.0.2 created.
+[13:28:13] [Server thread/INFO]: RAMJobStore initialized.
+[13:28:13] [Server thread/INFO]: Scheduler meta-data: Quartz Scheduler (v2.0.2) 'ftbbackups2' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'net.creeperhost.ftbbackups.org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'net.creeperhost.ftbbackups.org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'net.creeperhost.ftbbackups.org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[13:28:13] [Server thread/INFO]: Quartz scheduler 'ftbbackups2' initialized from an externally provided properties instance.
+[13:28:13] [Server thread/INFO]: Quartz scheduler version: 2.0.2
+[13:28:13] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED started.
+[13:28:13] [Server thread/INFO]: Loading quests from C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\ftbquests\quests
+[13:28:13] [Server thread/INFO]: Loaded 1 chapter groups, 2 chapters, 16 quests, 0 reward tables
+[13:28:13] [Server thread/INFO]: Loading quest progression data from C:\Users\82103\curseforge\minecraft\Instances\New GTNH\config\ftbquests\quests
+[13:28:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:28:13] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[13:28:13] [Render thread/INFO]: Time elapsed: 983 ms
+[13:28:14] [Netty Local Client IO #2/INFO]: Connected to a modded server.
+[13:28:14] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@612119f6
+[13:28:14] [Server thread/INFO]: yuhan8954[local:E:8e85bb6b] logged in with entity id 109 at (-6.423139074009049, -59.0, 27.50935242863345)
+[13:28:14] [Server thread/INFO]: yuhan8954 joined the game
+[13:28:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedInEvent
+[13:28:14] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[13:28:14] [Render thread/INFO]: Compiling GT recipes
+[13:28:14] [Render thread/INFO]: Time to compile GT recipes: (ms) 13
+[13:28:14] [Render thread/INFO]: No. of GT recipes: 8563
+[13:28:14] [Render thread/INFO]: Average loading time / recipe: (?s) 1
+[13:28:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[13:28:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[13:28:14] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[13:28:14] [Render thread/INFO]: Starting JEI...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 13.60 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: tconstruct:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: tconstruct:jei_plugin took 53.20 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:debug took 3.000 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:forge ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:forge took 2.700 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: mantle:jei ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: mantle:jei took 2.800 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: create:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: create:jei_plugin took 2.800 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei took 2.600 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: kubejs:jei ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: kubejs:jei took 6.600 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: ftbquests:jei ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: ftbquests:jei took 13.80 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: antimatter:jei ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: antimatter:jei took 2.700 レs
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[13:28:14] [Render thread/INFO]: Registering item subtypes: jei:internal took 4.700 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 3.400 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: tconstruct:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: tconstruct:jei_plugin took 3.600 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 9.700 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:forge ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:forge took 2.900 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: mantle:jei ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: mantle:jei took 3.700 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin took 10.60 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei took 2.800 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: kubejs:jei ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: kubejs:jei took 2.700 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: ftbquests:jei ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: ftbquests:jei took 2.700 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: antimatter:jei ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: antimatter:jei took 2.500 レs
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[13:28:14] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 2.600 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:minecraft took 88.77 ms
+[13:28:14] [Render thread/INFO]: Registering ingredients: tconstruct:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: tconstruct:jei_plugin took 47.20 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:debug took 5.800 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:forge ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:forge took 232.8 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: mantle:jei ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: mantle:jei took 3.200 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: create:jei_plugin ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: create:jei_plugin took 2.700 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: ftblibrary:jei ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: ftblibrary:jei took 2.800 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: kubejs:jei ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: kubejs:jei took 2.600 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: ftbquests:jei ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: ftbquests:jei took 2.900 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: antimatter:jei ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: antimatter:jei took 3.000 レs
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[13:28:14] [Render thread/INFO]: Registering ingredients: jei:internal took 2.800 レs
+[13:28:14] [Render thread/INFO]: Building ingredient list...
+[13:28:14] [Render thread/INFO]: Building ingredient list took 1.442 ms
+[13:28:14] [Render thread/INFO]: Building ingredient filter...
+[13:28:14] [Render thread/INFO]: Adding 8531 ingredients
+[13:28:15] [Render thread/INFO]: Added 8531 ingredients
+[13:28:15] [Render thread/INFO]: Building ingredient filter took 243.6 ms
+[13:28:15] [Render thread/INFO]: Building bookmarks...
+[13:28:15] [Render thread/INFO]: Building bookmarks took 351.3 レs
+[13:28:15] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering categories: jei:minecraft took 129.3 レs
+[13:28:15] [Render thread/INFO]: Registering categories: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering categories: tconstruct:jei_plugin took 65.60 レs
+[13:28:15] [Render thread/INFO]: Registering categories: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering categories: jei:debug took 4.900 レs
+[13:28:15] [Render thread/INFO]: Registering categories: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering categories: jei:forge took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering categories: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering categories: mantle:jei took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering categories: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering categories: create:jei_plugin took 157.3 レs
+[13:28:15] [Render thread/INFO]: Registering categories: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering categories: ftblibrary:jei took 2.900 レs
+[13:28:15] [Render thread/INFO]: Registering categories: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering categories: kubejs:jei took 3.000 レs
+[13:28:15] [Render thread/INFO]: Registering categories: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering categories: ftbquests:jei took 14.10 レs
+[13:28:15] [Render thread/INFO]: Registering categories: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering categories: antimatter:jei took 349.7 レs
+[13:28:15] [Render thread/INFO]: Registering categories: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering categories: jei:internal took 7.600 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 7.500 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: tconstruct:jei_plugin took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:forge took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: mantle:jei took 6.400 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin took 2.600 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei took 2.600 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: kubejs:jei took 2.600 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: ftbquests:jei took 2.600 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: antimatter:jei took 5.700 レs
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 13.70 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: tconstruct:jei_plugin took 61.90 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 4.200 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:forge took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: mantle:jei took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin took 81.00 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: kubejs:jei took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: ftbquests:jei took 9.400 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: antimatter:jei took 294.9 レs
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 3.100 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: tconstruct:jei_plugin took 3.600 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:debug took 3.700 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:forge took 3.500 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: mantle:jei took 3.500 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin took 3.600 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei took 3.600 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: kubejs:jei took 3.400 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Added recipe manager plugin: class dev.ftb.mods.ftbquests.integration.jei.QuestRecipeManagerPlugin
+[13:28:15] [Render thread/INFO]: Added recipe manager plugin: class dev.ftb.mods.ftbquests.integration.jei.LootCrateRecipeManagerPlugin
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: ftbquests:jei took 117.4 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: antimatter:jei took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering advanced plugins: jei:internal took 2.700 レs
+[13:28:15] [Render thread/INFO]: Building recipe registry...
+[13:28:15] [Render thread/INFO]: Building recipe registry took 703.0 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:minecraft took 70.23 ms
+[13:28:15] [Render thread/INFO]: Registering recipes: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipes: tconstruct:jei_plugin took 104.8 ms
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:debug took 6.400 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:forge took 17.69 ms
+[13:28:15] [Render thread/INFO]: Registering recipes: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes: mantle:jei took 9.900 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipes: create:jei_plugin took 208.8 ms
+[13:28:15] [Render thread/INFO]: Registering recipes: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes: ftblibrary:jei took 4.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes: kubejs:jei took 6.900 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes: ftbquests:jei took 3.400 レs
+[13:28:15] [Render thread/INFO]: Registering recipes: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes: antimatter:jei took 67.52 ms
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering recipes: jei:internal took 5.300 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 32.80 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: tconstruct:jei_plugin took 12.40 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 3.000 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge took 2.900 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: mantle:jei took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin took 7.200 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei took 3.000 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: kubejs:jei took 2.700 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: ftbquests:jei took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: antimatter:jei took 2.900 レs
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 3.100 レs
+[13:28:15] [Render thread/INFO]: Building runtime...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 27.20 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: tconstruct:jei_plugin took 9.000 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:debug took 4.500 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:forge ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:forge took 3.000 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: mantle:jei took 7.400 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: create:jei_plugin took 13.00 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei took 5.100 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: kubejs:jei took 2.900 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: ftbquests:jei took 2.900 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: antimatter:jei took 2.800 レs
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[13:28:15] [Render thread/INFO]: Registering gui handlers: jei:internal took 6.000 レs
+[13:28:15] [Render thread/INFO]: Building runtime took 2.049 ms
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:minecraft took 3.400 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: tconstruct:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 112 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraftforge.fluids.FluidStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 3 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 3 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Sending Runtime: tconstruct:jei_plugin took 3.158 ms
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:debug took 4.300 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:forge ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:forge took 3.000 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: mantle:jei ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: mantle:jei took 3.500 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: create:jei_plugin ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: create:jei_plugin took 3.000 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: ftblibrary:jei ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: ftblibrary:jei took 3.100 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: kubejs:jei ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: kubejs:jei took 130.5 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: ftbquests:jei ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: ftbquests:jei took 3.200 レs
+[13:28:15] [Render thread/INFO]: Sending Runtime: antimatter:jei ...
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 239 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[13:28:15] [Render thread/INFO]: Sending Runtime: antimatter:jei took 2.156 ms
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[13:28:15] [Render thread/INFO]: Sending Runtime: jei:internal took 3.800 レs
+[13:28:15] [Render thread/INFO]: Starting JEI took 857.1 ms
+[13:28:15] [Render thread/INFO]: Loading FTB Chunks client data from world edbea108-308e-4f2c-9b67-1621634ffc15
+[13:28:15] [Render thread/INFO]: Loaded 83 advancements
+[13:29:29] [Render thread/INFO]: Stopping!
+[13:29:29] [Server thread/INFO]: yuhan8954 lost connection: Disconnected
+[13:29:29] [Server thread/INFO]: yuhan8954 left the game
+[13:29:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:29:29] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[13:29:29] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[13:29:29] [Render thread/INFO]: Stopping JEI
+[13:29:29] [Server thread/INFO]: Stopping server
+[13:29:29] [Server thread/INFO]: Saving players
+[13:29:29] [Server thread/INFO]: Saving worlds
+[13:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:29:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:29:32] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutting down.
+[13:29:32] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED paused.
+[13:29:32] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutdown complete.
+[13:29:32] [Render thread/INFO]: Shutting down map thread

@@ -283,6 +283,66 @@
 				}
 			]
 		}
+		{
+			title: "smeltery"
+			x: 6.0d
+			y: 0.0d
+			dependencies: ["48927CA540995CE7"]
+			id: "6CDEAF052E45D8C2"
+			tasks: [
+				{
+					id: "6E7D819462E34846"
+					type: "item"
+					item: "tconstruct:smeltery_controller"
+				}
+				{
+					id: "24DCF0DBE2667C4A"
+					type: "item"
+					title: "tank"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "tconstruct:tanks"
+						}
+					}
+				}
+				{
+					id: "3F6E604EA760D891"
+					type: "item"
+					item: {
+						id: "tconstruct:seared_chute"
+						Count: 1b
+						tag: {
+							texture: "tconstruct:seared_bricks"
+						}
+					}
+				}
+				{
+					id: "1FACA394E1D50DBB"
+					type: "item"
+					item: {
+						id: "tconstruct:seared_drain"
+						Count: 1b
+						tag: {
+							texture: "tconstruct:seared_bricks"
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "bronze!"
+			x: 6.0d
+			y: 2.5d
+			dependencies: ["6CDEAF052E45D8C2"]
+			id: "7DF4686C26932BFF"
+			tasks: [{
+				id: "4BD413F21237F69E"
+				type: "item"
+				item: "antimatter_shared:ingot_bronze"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

@@ -164,6 +164,125 @@
 				item: "minecraft:crafting_table"
 			}]
 		}
+		{
+			title: "sand"
+			x: 4.0d
+			y: 5.5d
+			id: "0BDD4D4C7E402023"
+			tasks: [{
+				id: "703A15F9C98341A0"
+				type: "item"
+				title: "sand"
+				item: "minecraft:sand"
+				count: 64L
+			}]
+		}
+		{
+			title: "clay?"
+			x: 6.0d
+			y: 8.0d
+			id: "176FE2D18975FAF6"
+			tasks: [{
+				id: "0BBA9B54635B37C3"
+				type: "item"
+				title: "clay ball"
+				item: "minecraft:clay_ball"
+				count: 64L
+			}]
+		}
+		{
+			title: "gravel"
+			x: 8.0d
+			y: 5.5d
+			hide: false
+			id: "1D6CCB17C0136DB9"
+			tasks: [{
+				id: "1A0F00625228294F"
+				type: "item"
+				title: "gravel"
+				item: "minecraft:gravel"
+				count: 64L
+			}]
+		}
+		{
+			title: "clay!"
+			x: 6.0d
+			y: 6.0d
+			dependencies: ["176FE2D18975FAF6"]
+			id: "71A17766E0EC757B"
+			tasks: [{
+				id: "661C7A6A3ED49732"
+				type: "item"
+				title: "clay!"
+				item: "minecraft:clay"
+				count: 16L
+			}]
+		}
+		{
+			title: "I'm Grout!"
+			x: 6.0d
+			y: 4.0d
+			dependencies: [
+				"71A17766E0EC757B"
+				"0BDD4D4C7E402023"
+				"1D6CCB17C0136DB9"
+				"021CD1588E798E77"
+			]
+			id: "7FEFF6FE9DCDB7AA"
+			tasks: [{
+				id: "779D6B5E13D64250"
+				type: "item"
+				title: "Grout"
+				item: "tconstruct:grout"
+				count: 128L
+			}]
+		}
+		{
+			x: 8.0d
+			y: 2.5d
+			dependencies: ["7FEFF6FE9DCDB7AA"]
+			id: "11A2CF0738108BFB"
+			tasks: [{
+				id: "43C71C44D97D115F"
+				type: "item"
+				item: "tconstruct:seared_brick"
+			}]
+		}
+		{
+			title: "smeltery v0.1"
+			x: 8.0d
+			y: 0.0d
+			dependencies: ["11A2CF0738108BFB"]
+			id: "48927CA540995CE7"
+			tasks: [
+				{
+					id: "4B50A3381611B65A"
+					type: "item"
+					item: "tconstruct:seared_melter"
+				}
+				{
+					id: "3512075B0A4D56E1"
+					type: "item"
+					item: "tconstruct:seared_heater"
+				}
+				{
+					id: "2D71E30736BE21A1"
+					type: "item"
+					item: "tconstruct:seared_basin"
+				}
+				{
+					id: "37AC41E0CE66E3DA"
+					type: "item"
+					item: "tconstruct:seared_table"
+				}
+				{
+					id: "1A8F47D63A903481"
+					type: "item"
+					item: "tconstruct:seared_faucet"
+					count: 2L
+				}
+			]
+		}
 	]
 	quest_links: [ ]
 }

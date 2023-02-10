@@ -13,6 +13,4 @@ onEvent('recipes', event => {
           L: '#minecraft:logs' 
         }
       )
-
-    console.log('Hello! The recipe event has fired!')
 })
